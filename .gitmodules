@@ -1,3 +1,6 @@
 [submodule "lab0-introduction-BerkinChen"]
 	path = lab0-introduction-BerkinChen
 	url = git@github.com:N2Sys-EDU/lab0-introduction-BerkinChen.git
+[submodule "lab1-myftp-BerkinChen"]
+	path = lab1-myftp-BerkinChen
+	url = git@github.com:N2Sys-EDU/lab1-myftp-BerkinChen.git
