@@ -10,3 +10,6 @@
 [submodule "lab3-router-BerkinChen"]
 	path = lab3-router-BerkinChen
 	url = git@github.com:N2Sys-EDU/lab3-router-BerkinChen.git
+[submodule "lab4-switch-BerkinChen"]
+	path = lab4-switch-BerkinChen
+	url = git@github.com:N2Sys-EDU/lab4-switch-BerkinChen.git
